@@ -187,8 +187,6 @@ void testCollinearPointsRejectTriangle() {
 
 ## Summary & Key Takeaways
 
-Today's class highlighted that building software is about much more than just getting the syntax to compile and run. True software craftsmanship requires:
-
 * **Empathy for other developers and evaluators:** Delivering an informative `README.md` with visual cues so others can immediately understand and run our work.
 * **Discipline with toolchains:** Adhering to the standard Maven directory structure so projects compile cleanly across any environment.
 * **Traceable history:** Writing meaningful, conventional commit messages that preserve development intent.
