@@ -2,7 +2,7 @@
 
 ## Essential Characteristics of a Well-Engineered Software Project
 
-During this class, we discussed the foundational standards and engineering practices that distinguish a high-quality, professional software repository from a basic programming assignment. While writing functional code is the primary goal for beginners, industry-standard development emphasizes long-term maintainability, readability, automated verification, and clear communication.
+The foundational standards and engineering practices that distinguish a high-quality, professional software repository from a basic programming assignment. While writing functional code is the primary goal for beginners, industry-standard development emphasizes long-term maintainability, readability, automated verification, and clear communication.
 
 We broke down the essential must-haves into five core pillars:
 1. **A comprehensive, visual README**
