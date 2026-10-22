@@ -193,4 +193,3 @@ void testCollinearPointsRejectTriangle() {
 * **API clarity:** Documenting reusable classes and methods with precise Javadocs.
 * **Quality assurance:** Writing thorough JUnit test suites that protect the codebase against regression.
 
-Adopting these five practices transforms basic course assignments into robust, professional software repositories.
